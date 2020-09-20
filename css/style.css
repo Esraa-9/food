@@ -6,7 +6,7 @@ font-family:sans-serif;
     margin:0;
 }
 header{
-    background-image:url('file:///C:/Users/Mr%20Adham/Desktop/html%20&%20css%2010%20projects/pro2%20food/img/food1.jpg');
+    background-image:url('..css/img/food1.jpg');
     background-size:cover;
     min-height:100vh;
     background-position:center center;
